@@ -1,0 +1,18 @@
+[
+  {
+    "id": "001",
+    "name": "Tes Upload",
+    "deskripsi": "Tidak Ada Deskripsi",
+    "code_raw": "tes.js",
+    "watermark": "© Salomon",
+    "watermarkLink": "https://salomon.my.id"
+  },
+  {
+    "id": "002",
+    "name": "Tes Upload",
+    "deskripsi": "Tidak Ada Deskripsi",
+    "code_raw": "tes.js",
+    "watermark": "© Salomon",
+    "watermarkLink": "https://salomon.my.id"
+  }
+]
