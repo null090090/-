@@ -18,7 +18,7 @@
   {
     "id": "003",
     "name": "Backup Database",
-    "deskripsi": "auto backup database.js ke repositori private setiap 5jm sekali, di sesuaikan lagi aja di base kalian, saran menggunakan akun github baru jangan menggunakan akun github pribad/aktif !",
+    "deskripsi": "auto backup database.js ke repositori private setiap 5jm sekali, di sesuaikan lagi aja di base kalian, saran menggunakan akun github baru jangan menggunakan akun github pribad/aktif, setelah pasang langsung restart aja bot kalian !",
     "code_raw": "https://raw.githubusercontent.com/null090090/-001/refs/heads/main/%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80/autobckup-database.js",
     "watermark": "",
     "watermarkLink": ""
